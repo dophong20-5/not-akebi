@@ -1,7 +1,10 @@
-make sure to turn off real time protection
-run setup.bat as an admin
-
-when it says enter license key just type anything
+turn off real time protection
+run setup as admin
+open akebi launcher
+make sure genshin is on windows mode
+type anything on the enter license key 
+f1 to open menu 
+menu can be only opened once youre fully entered in the game
 
 if it says like error internet/headers just try exit and open akebi again
 
