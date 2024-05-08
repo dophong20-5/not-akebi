@@ -1,9 +1,9 @@
-turn off realtime protection
-run setup as admin
-open akebiLauncher
-make sure genshin is on windows mode
-type anything on the enter license key
-f1 to open menu(menu can be only opened once youre fully entered in the game)
+1. turn off realtime protection
+2. run setup as admin
+3. open akebiLauncher
+4. make sure genshin is on windows mode
+5. type anything on the enter license key
+6. f1 to open menu(menu can be only opened once youre fully entered in the game)
 
 if it says like error internet/headers just try exit and open akebi again
 
