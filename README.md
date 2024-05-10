@@ -11,11 +11,11 @@ if you get this error:
 ![image](https://github.com/0xCiel/Akebi-crack/assets/89581874/0fb5bfb0-45cc-4156-ac15-f7ba6810be48)
 
 
-Video instructions:
-**Set up**
+* Video instructions:
+* **Set up**
 https://github.com/0xCiel/Akebi-crack/assets/89581874/82166abf-aa11-4afa-bdb1-03dfe7eec7fb
 
-**Fix error Internet**
+* **Fix error Internet**
 https://github.com/0xCiel/Akebi-crack/assets/89581874/6f128f2e-8f75-42bd-be88-4f72ec74b951
 
 **proof that this does work:**
