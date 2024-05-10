@@ -13,10 +13,10 @@ if you get this error:
 
 * Video instructions:
 * **Set up**
-https://github.com/0xCiel/Akebi-crack/assets/89581874/82166abf-aa11-4afa-bdb1-03dfe7eec7fb
+  [Click me](https://github.com/0xCiel/Akebi-crack/assets/89581874/82166abf-aa11-4afa-bdb1-03dfe7eec7fb)
 
 * **Fix error Internet**
-https://github.com/0xCiel/Akebi-crack/assets/89581874/6f128f2e-8f75-42bd-be88-4f72ec74b951
+[Click me](https://github.com/0xCiel/Akebi-crack/assets/89581874/6f128f2e-8f75-42bd-be88-4f72ec74b951)
 
 **proof that this does work:**
 ![haNN7dc](https://github.com/0xCiel/Akebi-crack/assets/89581874/5ee8c761-c2eb-4d92-ba6d-9c969da2d56e)
