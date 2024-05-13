@@ -6,8 +6,7 @@
 6. f1 to open menu(menu can be only opened once youre fully entered in the game)
 
 if you get this error:
-1. open cmd and type `ipconfig /flushdns`
-2. make a new empty text file named "hosts" and remove .txt extension and just paste it at `C:\Windows\System32\drivers\etc` and run setup.bat again
+1. make a new empty text file named "hosts" and remove .txt extension and just paste it at `C:\Windows\System32\drivers\etc` and run setup.bat again
 ![image](https://github.com/0xCiel/Akebi-crack/assets/89581874/0fb5bfb0-45cc-4156-ac15-f7ba6810be48)
 
 
